@@ -1,5 +1,10 @@
 # Leaflet maps of ANC election information
 
+View static versions on nbviewer:
+* [notebook](https://nbviewer.jupyter.org/github/gotoariel/anc-mapping/blob/master/exploration.ipynb)
+* [HTML](https://nbviewer.jupyter.org/github/gotoariel/anc-mapping/blob/master/exploration.html)
+
+## Running the notebook
 ```
 conda env create -f environment.yml
 conda activate anc-map
